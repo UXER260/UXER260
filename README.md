@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UXER260
 - 👀 I’m interested in vertual tech
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sorry you can. not
 
