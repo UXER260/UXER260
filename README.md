@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UXER260
-- 👀 I’m interested in Developing solutions for bushiness
+- 👀 I’m interested in Developing solutions for bushinesses
 - 🌱 I’m fluent in python
 - 🤝 I’m looking to collaborate on making the world a better place
 - 📫 How to reach me: @camillodejong
