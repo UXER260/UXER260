@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UXER260
-- 👀 I’m interested in vertual tech
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sorry you can. not
+- 👀 I’m interested in Developing solutions for bushiness
+- 🌱 I’m fluent in python
+- 🤝 I’m looking to collaborate on making the world a better place
+- 📫 How to reach me: @camillodejong
 
 <!---
 UXER260/UXER260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
